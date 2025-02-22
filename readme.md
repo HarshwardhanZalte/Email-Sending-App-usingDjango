@@ -21,7 +21,7 @@ Mail To All Users
 ADD Users
 ![](readmeImg/4.png)
 
-Display, Update and Edit All Users
+Display, Update and Delete All Users
 ![](readmeImg/5.png)
 
 ---
